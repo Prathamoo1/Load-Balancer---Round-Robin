@@ -34,3 +34,5 @@ int main() {
     close(server_fd);
     return 0;
 }
+
+// implemented on tcp
