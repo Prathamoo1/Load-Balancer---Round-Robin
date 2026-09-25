@@ -68,9 +68,9 @@ int main() {
         return 1;
     }
 
-    cout << "====================================\n";
+
     cout << "     C++ LOAD BALANCER STARTED\n";
-    cout << "====================================\n";
+
     cout << "Listening on port 8080...\n";
 
     // Round-robin counter
