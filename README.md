@@ -1,5 +1,5 @@
 
-# Round Robin Load Balancer (C++)
+# Load Balancer (C++)
 
 A simple TCP-based Load Balancer implemented in C++ using the **Round Robin Scheduling Algorithm**.
 
